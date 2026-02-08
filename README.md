@@ -8,6 +8,10 @@ I created this repository to document hands-on networking experience, strengthen
 
 
 
+
+
+
+
 # 🖥️ Basic Network: 4 PCs, 2 Switches, 1 Router
 
 ![Environment](https://img.shields.io/badge/Environment-PacketTracer-blue)
