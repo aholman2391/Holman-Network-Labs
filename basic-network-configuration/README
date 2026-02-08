@@ -1,27 +1,12 @@
-# 🌐 Basic Network Configuration ![Lab](https://img.shields.io/badge/Lab-Networking%20%26%20Cloud-blue)
+# Basic Network Configuration Lab
 
-**Topology:** 4 PCs | 2 Switches | 1 Router  
-**Environment:** Cisco Packet Tracer ![Environment](https://img.shields.io/badge/Environment-PacketTracer-orange)
+This folder contains a screenshot and a video demonstrating the step-by-step process used to build a small network with 4 PCs, 2 switches, and 1 router in Cisco Packet Tracer.
 
----
+## Contents
+- Screenshots of the network setup and configurations  
+- Video walkthrough of the lab
 
-## 🎯 Goal
-Build a small network and enable full connectivity between all PCs.
+## Purpose
+Provide a visual, hands-on reference for building a basic network and verifying end-to-end connectivity between devices.
 
----
-
-## 🛠️ Actions
-- Added devices and connected with cables  
-- Configured router & PC IPs  
-- Verified connectivity with `ping`
-
----
-
-## ✅ Result
-Network is fully operational — all PCs can communicate.
-
----
-
-## 📸 Evidence
-- Screenshots → `screenshots/`  
-- Video walkthrough → `video.mp4`
+✅ Outcome: Fully functional network — all PCs can communicate successfully.
