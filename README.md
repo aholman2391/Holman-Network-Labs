@@ -82,7 +82,13 @@ This lab reinforces **core networking concepts** that directly apply to enterpri
 
 📷 Screenshots: uploaded directly in this folder.
 
-🎥 A full video walkthrough is included in the lab folder.
+🎥 A full video walkthrough is also included in the lab folder.
+
+[![Watch the video walkthrough](https://img.youtube.com/vi/ipblLuV0ljQ/0.jpg)](https://www.youtube.com/watch?v=ipblLuV0ljQ)
+
+
+
+
 
 ---
 
