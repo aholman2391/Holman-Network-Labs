@@ -1,93 +1,38 @@
-Holman Network Labs
+# 🖥️ Lab 1 — Basic Network: 4 PCs, 2 Switches, 1 Router
 
+![Environment](https://img.shields.io/badge/Environment-PacketTracer-blue)
+![Lab Type](https://img.shields.io/badge/Lab-Networking-informational)
 
+---
 
+## 🎯 Goal
 
+Build a small network and enable full connectivity between PCs using Packet Tracer.
 
+---
 
+## 🛠️ Key Actions
 
+- Added **4 PCs**, **2 switches**, and **1 router**  
+- Connected PCs to switches with **copper straight-through cables**  
+- Connected switches to router using **Gigabit Ethernet ports**  
+- Configured router interfaces:  
+  - Assigned IP addresses (`192.168.1.1`, etc.) and subnet masks (`255.255.255.0`)  
+  - Enabled interfaces with `no shutdown`  
+- Configured PCs with IP addresses in the same subnet  
+- Verified connectivity using `ping` between PCs  
 
-👋 About Me
+---
 
-Hi, I'm Alin Holman, an IT enthusiast transitioning from the transport industry into technology.
-I created this repository to document hands-on networking experience, strengthen my practical skills, and demonstrate my commitment to moving into infrastructure and networking roles.
+## ✅ Result
 
-👉 I focus on learning by doing — these labs represent the practical experience I’ve gained while developing the skills needed for a career in IT, and were completed in Packet Tracer virtual network environments, simulating real-world IT scenarios.
+Network is fully connected — PCs can communicate successfully.  
 
-🎯 Current Direction
+👉 **Includes screenshots and video walkthrough**  
 
-✅ CompTIA A+ Certified
-📚 Currently studying CompTIA Network+
-🧠 Building strong foundations in switching, routing, and IP networking
-☁️ Next target: Microsoft Azure (AZ-900 → AZ-104)
+---
 
-🛠️ Technical Skills Demonstrated
+## 📸 Evidence
 
-IP Addressing & Subnetting
-
-Device Configuration (PCs, Switches, Routers)
-
-VLAN Configuration & Inter-VLAN Routing
-
-DHCP & NAT
-
-Network Connectivity Testing (ping, tracert)
-
-Troubleshooting Network Issues
-
-💻 Hands-On Lab Portfolio
-🖥️ Lab 1 — Basic Network: 4 PCs, 2 Switches, 1 Router
-
-Objective: Build a small network and enable full connectivity.
-
-Steps Taken:
-
-Added 4 PCs, 2 switches, and 1 router in Packet Tracer
-
-Connected PCs to switches using copper straight-through cables
-
-Connected switches to router using Gigabit Ethernet ports
-
-Configured router interfaces:
-
-Assigned IP addresses and subnet masks
-
-Enabled interfaces with no shutdown
-
-Configured PCs with IP addresses in the same subnet
-
-Verified connectivity using ping
-
-✅ Result: PCs can communicate; network is fully functional.
-👉 Includes screenshots and video walkthrough
-
-🖥️ Lab 2 — Next Lab (Placeholder)
-
-Objective: [Short goal description here]
-
-Steps Taken:
-
-[List the key actions]
-
-✅ Result: [Short result summary]
-👉 Includes screenshots and video walkthrough
-
-📸 Evidence
-
-All screenshots and video walkthroughs are available inside each lab folder.
-
-(Tip: Recruiters LOVE seeing practical work — keep adding evidence!)
-
-🚀 What’s Next?
-
-This repository will expand as I progress through:
-
-VLAN & Inter-VLAN Routing labs
-
-DHCP & NAT labs
-
-Routing labs (static & dynamic)
-
-Network troubleshooting scenarios
-
-⭐ Always learning. Always building.
+- Place screenshots in the `screenshots/` folder  
+- Place the video walkthrough as `video.mp4` in the lab folder  
