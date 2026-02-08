@@ -4,11 +4,11 @@ Hi, I'm **Alin Holman**, an IT enthusiast transitioning from the transport indus
 
 This repository documents hands-on networking labs designed to strengthen practical skills and demonstrate my progression toward **infrastructure, networking, and cloud-focused roles**.
 
-These labs follow a *learning-by-doing* approach and were completed using **Cisco Packet Tracer**, simulating real-world on-premise environments commonly integrated with cloud platforms.
+These labs follow a learning-by-doing approach and were completed using **Cisco Packet Tracer**, simulating real-world on-premise environments commonly integrated with cloud platforms.
 
 ---
 
-# Basic Network Configuration  
+# Basic Network Configuration ![Lab](https://img.shields.io/badge/Lab-Networking%20%26%20Cloud-blue)  
 **4 PCs | 2 Switches | 1 Router**
 
 **Environment:** Cisco Packet Tracer  
@@ -31,6 +31,7 @@ Build a small network and enable full end-to-end connectivity between all device
   - Assigned IP addresses (192.168.1.1/24)
   - Enabled interfaces using `no shutdown`
 - Assigned IP addresses to PCs within the same subnet
+- Verified connectivity using `ping`
 
 ---
 
