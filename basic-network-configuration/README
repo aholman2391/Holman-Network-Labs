@@ -1,4 +1,4 @@
-# 🌐 Basic Network Configuration Lab ![Lab](https://img.shields.io/badge/Lab-Networking%20%26%20Cloud-blue)
+# 🌐 Basic Network Configuration ![Lab](https://img.shields.io/badge/Lab-Networking%20%26%20Cloud-blue)
 
 **Topology:** 4 PCs | 2 Switches | 1 Router  
 **Environment:** Cisco Packet Tracer ![Environment](https://img.shields.io/badge/Environment-PacketTracer-orange)
@@ -6,28 +6,22 @@
 ---
 
 ## 🎯 Goal
-
-🟢 Build a small network and enable **full connectivity** between all PCs.
-
----
-
-## 🛠️ Key Actions
-
-- 🖥️ Added PCs, switches, and router  
-- 🔌 Connected devices with appropriate cables  
-- ⚙️ Configured router interfaces with IP addresses and `no shutdown`  
-- 💻 Configured PCs with IP addresses in the same subnet  
-- ✅ Verified connectivity using `ping`
+Build a small network and enable full connectivity between all PCs.
 
 ---
 
-## 🟢 Result
+## 🛠️ Actions
+- Added devices and connected with cables  
+- Configured router & PC IPs  
+- Verified connectivity with `ping`
 
-All PCs can communicate successfully — **network is fully operational**.
+---
+
+## ✅ Result
+Network is fully operational — all PCs can communicate.
 
 ---
 
 ## 📸 Evidence
-
-- 🖼️ Screenshots: `screenshots/` folder  
-- 🎥 Video walkthrough: `video.mp4`
+- Screenshots → `screenshots/`  
+- Video walkthrough → `video.mp4`
