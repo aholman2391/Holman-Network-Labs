@@ -3,6 +3,10 @@
 Hi, I'm **Alin Holman**, an IT enthusiast transitioning from the transport industry into technology.  
 I created this repository to document hands-on networking experience, strengthen my practical skills, and demonstrate my commitment to moving into infrastructure and networking roles.
 
+
+
+
+
 👉 **I focus on learning by doing — these labs represent the practical experience I’ve gained while developing the skills needed for a career in IT, and were completed in Packet Tracer virtual network environments, simulating real-world IT scenarios.**
 
 
