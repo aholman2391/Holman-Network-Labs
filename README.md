@@ -8,7 +8,7 @@ I created this repository to document hands-on networking experience, strengthen
 
 
 
-# 🖥️ Lab 1 — Basic Network: 4 PCs, 2 Switches, 1 Router
+# 🖥️ Basic Network: 4 PCs, 2 Switches, 1 Router
 
 ![Environment](https://img.shields.io/badge/Environment-PacketTracer-blue)
 ![Lab Type](https://img.shields.io/badge/Lab-Networking-informational)
@@ -30,7 +30,6 @@ Build a small network and enable full connectivity between PCs using Packet Trac
   - Assigned IP addresses (`192.168.1.1`, etc.) and subnet masks (`255.255.255.0`)  
   - Enabled interfaces with `no shutdown`  
 - Configured PCs with IP addresses in the same subnet  
-- Verified connectivity using `ping` between PCs  
 
 ---
 
@@ -45,4 +44,4 @@ Network is fully connected — PCs can communicate successfully.
 ## 📸 Evidence
 
 - Place screenshots in the `screenshots/` folder  
-- Place the video walkthrough as `video.mp4` in the lab folder  
+- Place the video walkthrough in the lab folder  
