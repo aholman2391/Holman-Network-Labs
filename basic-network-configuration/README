@@ -1,0 +1,62 @@
+# Basic Network Configuration Lab
+
+![Lab](https://img.shields.io/badge/Lab-Networking%20%26%20Cloud-blue)
+
+**Topology:** 4 PCs | 2 Switches | 1 Router  
+**Environment:** Cisco Packet Tracer  
+**Lab Type:** Networking Fundamentals  
+
+---
+
+## 🎯 Lab Goal
+
+Build a small network and enable **full end-to-end connectivity** between all PCs.
+
+---
+
+## 🛠️ Key Actions
+
+1. **Network Deployment**
+   - Added 4 PCs, 2 switches, and 1 router
+   - Connected PCs to switches using copper straight-through cables
+   - Connected switches to the router using Gigabit Ethernet interfaces
+
+2. **Router Configuration**
+   - Assigned IP addresses to interfaces (192.168.1.1/24, etc.)
+   - Enabled interfaces with `no shutdown`
+
+3. **PC Configuration**
+   - Assigned IP addresses in the same subnet as the router
+   - Configured default gateways as needed
+
+4. **Connectivity Testing**
+   - Verified end-to-end connectivity between all PCs
+
+---
+
+## ✅ Result
+
+- Full network connectivity achieved  
+- All PCs can communicate with each other successfully  
+- Network topology is functional and ready for more advanced configurations (VLANs, routing, etc.)
+
+---
+
+## 🧠 Skills Demonstrated
+
+- Network topology design and deployment
+- IP addressing and subnetting
+- Router and switch interface configuration
+- End-to-end connectivity testing
+- Foundational troubleshooting
+
+---
+
+## 📸 Evidence
+
+- Screenshots of configurations and topology are in the `screenshots/` folder  
+- Full video walkthrough is included.
+
+---
+
+⭐ **Lab complete — foundational networking skills successfully applied**
